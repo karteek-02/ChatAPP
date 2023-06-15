@@ -6,7 +6,7 @@ This is a real-time chat application built with React and Firebase. It allows us
 
 - Clone the repository:
 
-git clone https://github.com/karteek-02/
+git clone https://github.com/karteek-02/ChatAPP
 
 npm install
 
